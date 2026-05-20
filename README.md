@@ -121,6 +121,8 @@ Need help or have questions? We're here to assist you!
 - **Email:** [bluematter.help@gmail.com](mailto:bluematter.help@gmail.com)
 - **Play Store:** [Rate and Review](https://play.google.com/store/apps/details?id=com.bluematter.orbitarr)
 
+- **Website:** [orbitarr.web.app](https://orbitarr.web.app) · **Orbitarr Instagram:** [@orbitarr.app](https://www.instagram.com/orbitarr.app/)
+
 ## 📄 License
 
 This is a closed-source project. All rights reserved.
